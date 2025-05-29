@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class Basics{
     public static int binarySearch(int[] nums, int target) {
         int n = nums.length; //size of the array.
